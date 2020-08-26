@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+m-photos is a simple photos app where user can select photo and upload it to the internet its build using reactjs and firebase to get started go to the app directory in the terminal and hit ### `npm install` and then you are all set to go
+
+
 ## Available Scripts
 
 In the project directory, you can run:
